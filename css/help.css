@@ -1,0 +1,15 @@
+
+
+/* Container of help format  */
+.help {
+  width: 100%;
+  position: absolute;
+  top: 150px;
+  left: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1000;
+  background-color: #0000009a;
+}
